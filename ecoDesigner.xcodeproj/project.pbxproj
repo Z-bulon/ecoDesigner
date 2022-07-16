@@ -8,60 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		0B17A04C2879E2C4006613BD /* urlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B17A04B2879E2C4006613BD /* urlView.swift */; };
-		0B17A04D2879E2C4006613BD /* urlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B17A04B2879E2C4006613BD /* urlView.swift */; };
 		0B17A0502881F77C006613BD /* YouTubePlayerKit in Frameworks */ = {isa = PBXBuildFile; productRef = 0B17A04F2881F77C006613BD /* YouTubePlayerKit */; };
 		0B88E24F2869EF0600233E0F /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E24E2869EF0600233E0F /* FavoriteButton.swift */; };
-		0B88E2502869EF0600233E0F /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E24E2869EF0600233E0F /* FavoriteButton.swift */; };
 		0B88E254286A082900233E0F /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E253286A082900233E0F /* CategoryHome.swift */; };
-		0B88E255286A082900233E0F /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E253286A082900233E0F /* CategoryHome.swift */; };
 		0B88E257286A090D00233E0F /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E256286A090D00233E0F /* CategoryRow.swift */; };
-		0B88E258286A090D00233E0F /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E256286A090D00233E0F /* CategoryRow.swift */; };
 		0B88E25A286A09F000233E0F /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E259286A09F000233E0F /* CategoryItem.swift */; };
-		0B88E25B286A09F000233E0F /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B88E259286A09F000233E0F /* CategoryItem.swift */; };
-		0BAD8C1A286816BE00A9676A /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C19286816BE00A9676A /* Tests_iOS.swift */; };
-		0BAD8C1C286816BE00A9676A /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C1B286816BE00A9676A /* Tests_iOSLaunchTests.swift */; };
-		0BAD8C26286816BE00A9676A /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C25286816BE00A9676A /* Tests_macOS.swift */; };
-		0BAD8C28286816BE00A9676A /* Tests_macOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C27286816BE00A9676A /* Tests_macOSLaunchTests.swift */; };
 		0BAD8C29286816BE00A9676A /* ecoDesignerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C01286816BB00A9676A /* ecoDesignerApp.swift */; };
-		0BAD8C2A286816BE00A9676A /* ecoDesignerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C01286816BB00A9676A /* ecoDesignerApp.swift */; };
 		0BAD8C2B286816BE00A9676A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C02286816BB00A9676A /* ContentView.swift */; };
-		0BAD8C2C286816BE00A9676A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C02286816BB00A9676A /* ContentView.swift */; };
 		0BAD8C2D286816BE00A9676A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BAD8C03286816BE00A9676A /* Assets.xcassets */; };
-		0BAD8C2E286816BE00A9676A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BAD8C03286816BE00A9676A /* Assets.xcassets */; };
 		0BAD8C3E28681AF100A9676A /* circleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C3D28681AF000A9676A /* circleImage.swift */; };
-		0BAD8C3F28681AF100A9676A /* circleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C3D28681AF000A9676A /* circleImage.swift */; };
 		0BAD8C4128681C2E00A9676A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C4028681C2E00A9676A /* MapView.swift */; };
-		0BAD8C4228681C2E00A9676A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C4028681C2E00A9676A /* MapView.swift */; };
 		0BAD8C442868D2A400A9676A /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0BAD8C432868D2A400A9676A /* landmarkData.json */; };
-		0BAD8C452868D2A400A9676A /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0BAD8C432868D2A400A9676A /* landmarkData.json */; };
 		0BAD8C472868D2C400A9676A /* ecodesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C462868D2C400A9676A /* ecodesign.swift */; };
-		0BAD8C482868D2C400A9676A /* ecodesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C462868D2C400A9676A /* ecodesign.swift */; };
 		0BAD8C4A2868D3A100A9676A /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C492868D3A100A9676A /* ModelData.swift */; };
-		0BAD8C4B2868D3A100A9676A /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C492868D3A100A9676A /* ModelData.swift */; };
 		0BAD8C502868D51900A9676A /* ecoDesignRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C4F2868D51900A9676A /* ecoDesignRow.swift */; };
-		0BAD8C512868D51900A9676A /* ecoDesignRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C4F2868D51900A9676A /* ecoDesignRow.swift */; };
 		0BAD8C532868F36B00A9676A /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C522868F36B00A9676A /* LandmarkList.swift */; };
-		0BAD8C542868F36B00A9676A /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C522868F36B00A9676A /* LandmarkList.swift */; };
 		0BAD8C562868F44900A9676A /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C552868F44900A9676A /* LandmarkDetail.swift */; };
-		0BAD8C572868F44900A9676A /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAD8C552868F44900A9676A /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		0BAD8C16286816BE00A9676A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 0BAD8BFC286816BB00A9676A /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 0BAD8C07286816BE00A9676A;
-			remoteInfo = "ecoDesigner (iOS)";
-		};
-		0BAD8C22286816BE00A9676A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 0BAD8BFC286816BB00A9676A /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 0BAD8C0D286816BE00A9676A;
-			remoteInfo = "ecoDesigner (macOS)";
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0B17A04B2879E2C4006613BD /* urlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = urlView.swift; sourceTree = "<group>"; };
@@ -73,14 +36,6 @@
 		0BAD8C02286816BB00A9676A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0BAD8C03286816BE00A9676A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0BAD8C08286816BE00A9676A /* ecoDesigner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ecoDesigner.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0BAD8C0E286816BE00A9676A /* ecoDesigner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ecoDesigner.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0BAD8C10286816BE00A9676A /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
-		0BAD8C15286816BE00A9676A /* Tests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0BAD8C19286816BE00A9676A /* Tests_iOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_iOS.swift; sourceTree = "<group>"; };
-		0BAD8C1B286816BE00A9676A /* Tests_iOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_iOSLaunchTests.swift; sourceTree = "<group>"; };
-		0BAD8C21286816BE00A9676A /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0BAD8C25286816BE00A9676A /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
-		0BAD8C27286816BE00A9676A /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
 		0BAD8C3D28681AF000A9676A /* circleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = circleImage.swift; sourceTree = "<group>"; };
 		0BAD8C4028681C2E00A9676A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		0BAD8C432868D2A400A9676A /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
@@ -97,27 +52,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B17A0502881F77C006613BD /* YouTubePlayerKit in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C0B286816BE00A9676A /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C12286816BE00A9676A /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C1E286816BE00A9676A /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,9 +83,6 @@
 			isa = PBXGroup;
 			children = (
 				0BAD8C00286816BB00A9676A /* Shared */,
-				0BAD8C0F286816BE00A9676A /* macOS */,
-				0BAD8C18286816BE00A9676A /* Tests iOS */,
-				0BAD8C24286816BE00A9676A /* Tests macOS */,
 				0BAD8C09286816BE00A9676A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -173,37 +104,8 @@
 			isa = PBXGroup;
 			children = (
 				0BAD8C08286816BE00A9676A /* ecoDesigner.app */,
-				0BAD8C0E286816BE00A9676A /* ecoDesigner.app */,
-				0BAD8C15286816BE00A9676A /* Tests iOS.xctest */,
-				0BAD8C21286816BE00A9676A /* Tests macOS.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		0BAD8C0F286816BE00A9676A /* macOS */ = {
-			isa = PBXGroup;
-			children = (
-				0BAD8C10286816BE00A9676A /* macOS.entitlements */,
-			);
-			path = macOS;
-			sourceTree = "<group>";
-		};
-		0BAD8C18286816BE00A9676A /* Tests iOS */ = {
-			isa = PBXGroup;
-			children = (
-				0BAD8C19286816BE00A9676A /* Tests_iOS.swift */,
-				0BAD8C1B286816BE00A9676A /* Tests_iOSLaunchTests.swift */,
-			);
-			path = "Tests iOS";
-			sourceTree = "<group>";
-		};
-		0BAD8C24286816BE00A9676A /* Tests macOS */ = {
-			isa = PBXGroup;
-			children = (
-				0BAD8C25286816BE00A9676A /* Tests_macOS.swift */,
-				0BAD8C27286816BE00A9676A /* Tests_macOSLaunchTests.swift */,
-			);
-			path = "Tests macOS";
 			sourceTree = "<group>";
 		};
 		0BAD8C4C2868D43300A9676A /* Views */ = {
@@ -258,59 +160,6 @@
 			productReference = 0BAD8C08286816BE00A9676A /* ecoDesigner.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0BAD8C0D286816BE00A9676A /* ecoDesigner (macOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 0BAD8C34286816BE00A9676A /* Build configuration list for PBXNativeTarget "ecoDesigner (macOS)" */;
-			buildPhases = (
-				0BAD8C0A286816BE00A9676A /* Sources */,
-				0BAD8C0B286816BE00A9676A /* Frameworks */,
-				0BAD8C0C286816BE00A9676A /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "ecoDesigner (macOS)";
-			productName = "ecoDesigner (macOS)";
-			productReference = 0BAD8C0E286816BE00A9676A /* ecoDesigner.app */;
-			productType = "com.apple.product-type.application";
-		};
-		0BAD8C14286816BE00A9676A /* Tests iOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 0BAD8C37286816BE00A9676A /* Build configuration list for PBXNativeTarget "Tests iOS" */;
-			buildPhases = (
-				0BAD8C11286816BE00A9676A /* Sources */,
-				0BAD8C12286816BE00A9676A /* Frameworks */,
-				0BAD8C13286816BE00A9676A /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				0BAD8C17286816BE00A9676A /* PBXTargetDependency */,
-			);
-			name = "Tests iOS";
-			productName = "Tests iOS";
-			productReference = 0BAD8C15286816BE00A9676A /* Tests iOS.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
-		0BAD8C20286816BE00A9676A /* Tests macOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 0BAD8C3A286816BE00A9676A /* Build configuration list for PBXNativeTarget "Tests macOS" */;
-			buildPhases = (
-				0BAD8C1D286816BE00A9676A /* Sources */,
-				0BAD8C1E286816BE00A9676A /* Frameworks */,
-				0BAD8C1F286816BE00A9676A /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				0BAD8C23286816BE00A9676A /* PBXTargetDependency */,
-			);
-			name = "Tests macOS";
-			productName = "Tests macOS";
-			productReference = 0BAD8C21286816BE00A9676A /* Tests macOS.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -323,17 +172,6 @@
 				TargetAttributes = {
 					0BAD8C07286816BE00A9676A = {
 						CreatedOnToolsVersion = 13.4.1;
-					};
-					0BAD8C0D286816BE00A9676A = {
-						CreatedOnToolsVersion = 13.4.1;
-					};
-					0BAD8C14286816BE00A9676A = {
-						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = 0BAD8C07286816BE00A9676A;
-					};
-					0BAD8C20286816BE00A9676A = {
-						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = 0BAD8C0D286816BE00A9676A;
 					};
 				};
 			};
@@ -354,9 +192,6 @@
 			projectRoot = "";
 			targets = (
 				0BAD8C07286816BE00A9676A /* ecoDesigner (iOS) */,
-				0BAD8C0D286816BE00A9676A /* ecoDesigner (macOS) */,
-				0BAD8C14286816BE00A9676A /* Tests iOS */,
-				0BAD8C20286816BE00A9676A /* Tests macOS */,
 			);
 		};
 /* End PBXProject section */
@@ -368,29 +203,6 @@
 			files = (
 				0BAD8C2D286816BE00A9676A /* Assets.xcassets in Resources */,
 				0BAD8C442868D2A400A9676A /* landmarkData.json in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C0C286816BE00A9676A /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0BAD8C2E286816BE00A9676A /* Assets.xcassets in Resources */,
-				0BAD8C452868D2A400A9676A /* landmarkData.json in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C13286816BE00A9676A /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C1F286816BE00A9676A /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,59 +230,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0BAD8C0A286816BE00A9676A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0B17A04D2879E2C4006613BD /* urlView.swift in Sources */,
-				0BAD8C3F28681AF100A9676A /* circleImage.swift in Sources */,
-				0BAD8C4228681C2E00A9676A /* MapView.swift in Sources */,
-				0BAD8C512868D51900A9676A /* ecoDesignRow.swift in Sources */,
-				0B88E2502869EF0600233E0F /* FavoriteButton.swift in Sources */,
-				0B88E255286A082900233E0F /* CategoryHome.swift in Sources */,
-				0BAD8C542868F36B00A9676A /* LandmarkList.swift in Sources */,
-				0BAD8C572868F44900A9676A /* LandmarkDetail.swift in Sources */,
-				0BAD8C2C286816BE00A9676A /* ContentView.swift in Sources */,
-				0B88E25B286A09F000233E0F /* CategoryItem.swift in Sources */,
-				0BAD8C482868D2C400A9676A /* ecodesign.swift in Sources */,
-				0BAD8C2A286816BE00A9676A /* ecoDesignerApp.swift in Sources */,
-				0B88E258286A090D00233E0F /* CategoryRow.swift in Sources */,
-				0BAD8C4B2868D3A100A9676A /* ModelData.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C11286816BE00A9676A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0BAD8C1C286816BE00A9676A /* Tests_iOSLaunchTests.swift in Sources */,
-				0BAD8C1A286816BE00A9676A /* Tests_iOS.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		0BAD8C1D286816BE00A9676A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0BAD8C28286816BE00A9676A /* Tests_macOSLaunchTests.swift in Sources */,
-				0BAD8C26286816BE00A9676A /* Tests_macOS.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		0BAD8C17286816BE00A9676A /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 0BAD8C07286816BE00A9676A /* ecoDesigner (iOS) */;
-			targetProxy = 0BAD8C16286816BE00A9676A /* PBXContainerItemProxy */;
-		};
-		0BAD8C23286816BE00A9676A /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 0BAD8C0D286816BE00A9676A /* ecoDesigner (macOS) */;
-			targetProxy = 0BAD8C22286816BE00A9676A /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		0BAD8C2F286816BE00A9676A /* Debug */ = {
@@ -643,141 +403,6 @@
 			};
 			name = Release;
 		};
-		0BAD8C35286816BE00A9676A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UJKU4XUAJW;
-				ENABLE_HARDENED_RUNTIME = YES;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arliack.ecoDesigner;
-				PRODUCT_NAME = ecoDesigner;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-			};
-			name = Debug;
-		};
-		0BAD8C36286816BE00A9676A /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UJKU4XUAJW;
-				ENABLE_HARDENED_RUNTIME = YES;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arliack.ecoDesigner;
-				PRODUCT_NAME = ecoDesigner;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-			};
-			name = Release;
-		};
-		0BAD8C38286816BE00A9676A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UJKU4XUAJW;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "arliack.Tests-iOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "ecoDesigner (iOS)";
-			};
-			name = Debug;
-		};
-		0BAD8C39286816BE00A9676A /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UJKU4XUAJW;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "arliack.Tests-iOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "ecoDesigner (iOS)";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		0BAD8C3B286816BE00A9676A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UJKU4XUAJW;
-				GENERATE_INFOPLIST_FILE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "arliack.Tests-macOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "ecoDesigner (macOS)";
-			};
-			name = Debug;
-		};
-		0BAD8C3C286816BE00A9676A /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UJKU4XUAJW;
-				GENERATE_INFOPLIST_FILE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "arliack.Tests-macOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "ecoDesigner (macOS)";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -795,33 +420,6 @@
 			buildConfigurations = (
 				0BAD8C32286816BE00A9676A /* Debug */,
 				0BAD8C33286816BE00A9676A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		0BAD8C34286816BE00A9676A /* Build configuration list for PBXNativeTarget "ecoDesigner (macOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				0BAD8C35286816BE00A9676A /* Debug */,
-				0BAD8C36286816BE00A9676A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		0BAD8C37286816BE00A9676A /* Build configuration list for PBXNativeTarget "Tests iOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				0BAD8C38286816BE00A9676A /* Debug */,
-				0BAD8C39286816BE00A9676A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		0BAD8C3A286816BE00A9676A /* Build configuration list for PBXNativeTarget "Tests macOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				0BAD8C3B286816BE00A9676A /* Debug */,
-				0BAD8C3C286816BE00A9676A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
